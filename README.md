@@ -1,15 +1,14 @@
-# HTTP5114 Workshops in Web Development 1
+# HTTP5114 Workshops in Web Development
 
-Files form HTTP5114 course.
+This is the repo for class content from [HTTP5114 Workshops in Web Developer](https://mediaarts.humber.ca/programs/web-development.html).
 
-## Starting a New Project
+## Course Description
 
-1. Make a new repo on github.com
-2. Open your terminal
-3. Navigate your terminal to project destination
-4. Clone the repo
-5. Change directoy into the new folder
-6. Open VSCode and point it to the same folder
+This course will allow students to access additional support for content delivered in the other classes each semester. Every student in the class will engage in a process of self-assessment to help them identify areas where they would benefit from help, and then the student and teaching team will set up a process for providing support for any areas where the student would benefit from some in-the-moment support. Mentors, tutors and workshops will be available.
+
+<img src="https://console.codeadam.ca/api/image/markdown" width="60"> <img src="https://console.codeadam.ca/api/image/github" width="60"> <img src="https://console.codeadam.ca/api/image/html" width="60"> <img src="https://console.codeadam.ca/api/image/css" width="60"> <img src="https://console.codeadam.ca/api/image/javascript" width="60"> 
+
+---
 
 <br>
 <a href="https://codeadam.ca">
